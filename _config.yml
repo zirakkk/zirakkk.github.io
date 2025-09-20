@@ -1,0 +1,50 @@
+title: Jin Sun
+description: Personal Website
+baseurl: ""
+url: "https://zirakkk.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+- jekyll-scholar
+- jekyll-feed
+- jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor
+
+scholar:
+  style: apa
+  source: ./_bibliography
+  bibliography: publications.bib
+  sort_by: year,month
+  order: descending
+  bibliography_template: bibliography
+  details_dir: bibliography
+  details_layout: bibliography.html
+  details_link: ""
+  query: "@*"
+
+collections:
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+- scope:
+    path: ""
+    type: teaching
+  values:
+    layout: teaching/course
+- scope:
+    path: "projects:"
+    type: "pages"
+  values:
+    layout: default
