@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zirakkk.github.io/sitemap.xml
