@@ -199,6 +199,7 @@ footer p:nth-child(2) {
 }
 .profile-info p.department, .profile-info p.institution {
   color: #8ecae6;
+  font-size: 0.8rem;
 }
 .profile-info p.email {
   margin-top: 1rem;
