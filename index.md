@@ -9,33 +9,32 @@ title: Home
       <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile Picture">
     </div>
     <div class="profile-info">
-      <h1>Jin Sun</h1>
-      <p class="title">Assistant Professor</p>
-      <p class="department">School of Computing | Institute for AI</p>
-      <p class="institution">University of Georgia</p>
+      <h1>Zirak Khan</h1>
+      <p class="title">PhD Candidate | Research Affiliate</p>
+      <p class="department">School of Computing| Agricultural Research Service</p>
+      <p class="institution"> University of Georgia | U.S. Department of Agriculture</p>
       <p class="address">
-        804 Boyd Graduate Studies Research Center<br>
+        207-A Visual and Parallel Comuputing Lab<br>
         Athens, GA, USA 30602
       </p>
       <p class="email">
-        jinsun@uga.edu
+        zirak.khan@uga.edu
       </p>
     </div>
   </div>
 
   <div class="profile-content">
     
-I'm an Assistant Professor in the <a href="https://computing.uga.edu/" target="_blank">School of Computing</a> and a faculty fellow at the <a href="https://www.ai.uga.edu/">Institute for Artificial Intelligence</a> at the University of Georgia. I'm also a <a href="https://ctl.uga.edu/faculty/faculty-fellows-programs/lilly-teaching-fellows/">Lilly Teaching Fellow</a>. 
+I'm a PhD Candidate in Computer Science at the <a href="https://computing.uga.edu/" target="_blank">School of Computing</a>, University of Georgia and a Research Affiliate at the  <a href="https://www.ars.usda.gov/southeast-area/athens-ga/us-national-poultry-research-center/" target="_blank"> U.S. Department of Agriculture (USDA-ARS)</a> in Athens.
 
 <br />
+
+<!-- Add your background here -->
+I received my Master's degree in Software Engineering from National University of Sciences and Technology of Pakistan (NUST) in 2019 and my Bachelor's degree in Software Engineering from COMSATS University Islamabad (CUI) in 2016. I'm currently working with <a href="https://csci.franklin.uga.edu/directory/people/suchendra-m-bhandarkar" target="_blank">Prof. Suchendra M. Bhandarkar</a> (UGA) and <a href="https://scholar.google.com/citations?user=7U6Xw7UAAAAJ&hl=en" target="_blank">Dr. Seung-Chul Yoon</a> (USDA-ARS) on efficient detection and classification of foreign object in broiler meat using hyperspectral imaging.
+<!-- I'm currently working with [Advisor Name] on [Research Area]. -->
 <br />
 
-My main research area is <strong>computer vision</strong>--understanding our world using visual data with the help of state-of-the-art deep learning models. In particular, I'm passionate about understanding people in diverse and complex environment using images and videos. I believe A.I. can and should be developed to improve people's quality of life. 
-
-<br />
-<br />
-
-I am actively collaborating with researchers across disciplines to apply A.I. in scientific discovery, healthcare advancement, and societal challenges, aiming to create meaningful impact beyond traditional computer vision applications.
+My research interests include <strong>efficient deep learning, computer vision</strong>. I'm particularly interested in optimizing deep learning architectures/models especially vision models via efficient designs and hardware optimization for real-time applicability in multiple domains such as food safety, remote sensing. 
 
 
     <h3>Recent news</h3>
