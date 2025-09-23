@@ -44,6 +44,9 @@ layout: default
       {% if entry.arxiv %}
         <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="paper-link" target="_blank">arXiv</a>
       {% endif %}
+      {% if entry.url %}
+        <a href="{{entry.url}}" class="paper-link" target="_blank">Paper</a>
+      {% endif %}
       {% if entry.html %}
         <a href="{{ entry.html }}" class="paper-link" target="_blank">Project Page</a>
       {% endif %}
