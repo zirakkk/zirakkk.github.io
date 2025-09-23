@@ -1,11 +1,5 @@
 <div class="news-item">
     <span class="news-date">Sep, 2025</span>
-    <span class="news-content">New journal paper submitted to AI in Agriculture.</span>
-    <span class="news-icon"><i class="fas fa-scroll" title="Journal Paper"></i></span>
-  </div><div class="news-list">
-
-<div class="news-item">
-    <span class="news-date">Sep, 2025</span>
     <span class="news-content">New conference paper accepted at NeurIPS 2025.</span>
     <span class="news-icon"><i class="fas fa-scroll" title="Conference Paper"></i></span>
   </div>
@@ -38,5 +32,3 @@
     <span class="news-date">Aug, 2022</span>
     <span class="news-content">Joined Visual and Parallel Computing Lab (VPCL) at UGA as Research Assistant.</span>
   </div>
-
-`<i class=""></i>`
