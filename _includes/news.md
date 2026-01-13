@@ -1,4 +1,10 @@
 <div class="news-item">
+    <span class="news-date">Dec, 2025</span>
+    <span class="news-content">New journal paper accepted at JSTARS.</span>
+    <span class="news-icon"><i class="fas fa-scroll" title="Journal Paper"></i></span>
+  </div>
+
+<div class="news-item">
     <span class="news-date">Sep, 2025</span>
     <span class="news-content">New conference paper accepted at NeurIPS 2025.</span>
     <span class="news-icon"><i class="fas fa-scroll" title="Conference Paper"></i></span>
